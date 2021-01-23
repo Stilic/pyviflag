@@ -4,7 +4,9 @@ A unofficial Python API wrapper for Flag.
 
 ## Install
 
-Simply download `pyviflag.py` and include it in you project folder!
+1. Install the requests libray with `pip install requests`
+2. Download `pyviflag.py`
+3. Include it in you project folder
 
 ## Basic usage
 
