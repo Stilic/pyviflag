@@ -1,1 +1,1 @@
-import pyviflag
+import pyviflag as PyViFlag

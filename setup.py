@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="PyViFlag",
-    version="1.0.2",
+    version="1.0.3",
     author="Stylix58Alt",
     author_email="lateman-jpeg@outlook.fr",
     description="A unofficial Python API wrapper for Flag.",
